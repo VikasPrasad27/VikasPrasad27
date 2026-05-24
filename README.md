@@ -1,5 +1,5 @@
 # 💫 About Me:<br>
-👋 Namaste! I'm Vikas Prasad a passionate Full Stack Web Developer who loves turning ideas into interactive, scalable, and user-friendly web applications. From crafting responsive front-ends to building robust back-end systems, I enjoy working across the entire stack to create seamless digital experiences.<br><br>🌐 Portfolio<br>Check out my work: [https://vikasprasad27.vercel.app/](https://vikasprasad27.vercel.app/)
+👋 Namaste! I'm Vikas Prasad a passionate Full Stack Web Developer who has shipped two production MERN applications, led a 4-person development team. Built a live healthcare platform with Gemini AI integration, JWT auth, and end-to-end encryption. Completed a full-stack internship at a Pune based startup. Looking for full-time SDE or Full Stack Developer roles where I can build and own real features from day ones.<br><br>🌐 Portfolio<br>Check out my work: [https://vikasprasad27.vercel.app/](https://vikasprasad27.vercel.app/)
 
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/vikas-prasad-47b8642b0) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:vikasicem123@gmail.com) 
